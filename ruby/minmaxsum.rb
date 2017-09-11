@@ -12,4 +12,4 @@ for i in 0..4
   	Vets << total
 end
 
-puts "#{Vets.min}"+" #{Vets.max}" 
+puts "#{Vets.min} #{Vets.max}" 
